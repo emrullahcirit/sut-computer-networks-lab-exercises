@@ -1,6 +1,6 @@
 # Silesian University of Technology - Computer Networks Lab.
 
-### During my Erasmus program in Silesian University of Technology, Poland I will upload computer networks laboratory ecxercises to this repo. In this repository you can find lab exercises and some cheat sheets. Just click on the name of exercise to check it.
+During my Erasmus program in Silesian University of Technology, Poland I will upload computer networks laboratory ecxercises to this repo. In this repository you can find lab exercises and some cheat sheets. Just click on the name of exercise to check it.
 
 
 |Week|Topic|Lab|Cheat Sheet|
