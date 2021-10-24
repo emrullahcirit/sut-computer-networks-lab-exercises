@@ -5,8 +5,8 @@ During my Erasmus program in Silesian University of Technology, Poland I will up
 
 |Week|Topic|Lab|Cheat Sheet|
 |---|---|---|---|
-| 1  |**UNIX/Linux operating system basics**|||
-| 2  |**Introduction to bash scripting**|||
+| 1  |**UNIX/Linux operating system basics**|-|[Lab1 Cheat Sheet](/exercises/lab1/Basic_Linux_commands_cheat_sheet.pdf)|
+| 2  |**Introduction to bash scripting**|[srm.sh](/exercises/lab2/srm.sh)|[Lab2 Cheat Sheet](/exercises/lab2/Bash_scripting_cheat_sheet.pdf)|
 | 3  |**Client/server programming**|||
 | 4  |**Client/server programming applications**|||
 | 5  |**IP addressing and configuration**|||
