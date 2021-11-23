@@ -1,0 +1,15 @@
+CREATE DATABASE lab10db;
+
+USE lab10db;
+CREATE TABLE People (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    BirthDate date
+);
+
+USE lab10db;
+
+INSERT INTO People
+VALUES (1, "Cirit", "Emrullah", "1999-08-09");
+VALUES (2, "Altan", "Sezgi", "2000-01-02");
